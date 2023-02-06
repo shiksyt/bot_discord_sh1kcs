@@ -182,4 +182,4 @@ async def tags(inter: disnake.AppCmdInter):
 #    await _create_ticket(inter)
 
 
-bot.run("MTA3MTM3NzU0MzM2Nzc3NDMwOA.GWP3Ja.JWSLEYAefyp8llX6GoifuQuYzM3GqyaOenUXNI")
+bot.run("MTA3MTM3NzU0MzM2Nzc3NDMwOA.GRN-t9.wvsG4BAUXBcywOxd_q95ObMdooNQQLr4GuPpZs")
