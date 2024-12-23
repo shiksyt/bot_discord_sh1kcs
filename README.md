@@ -1,2 +1,2 @@
 # bot_discord_sh1kcs
-senk
+My discord - sh1kcs
